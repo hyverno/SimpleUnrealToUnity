@@ -1,6 +1,7 @@
 # Unreal to Unity Exporter
 
 pls before use my script change export folder location ^^  🥖🥖 🍷🍷🥐🥐
+and import UnrealToUnity into your unity project (Editor folder only)
 
 Automated tool to export 3D assets (meshes, animations, materials) from Unreal Engine to Unity with one click. Supports batch processing of folders and individual files.
 
